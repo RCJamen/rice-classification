@@ -109,9 +109,6 @@ Actual performance metrics will vary based on your specific dataset and training
 ## Author
 Ramel Cary B. Jamen (2019-2093)
 
-## License
-[Add your chosen license here]
-
 ## Acknowledgments
 - Omdena's Local Chapter project for the dataset
 - Agricultural experts who validated the disease classifications
